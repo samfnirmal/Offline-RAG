@@ -1,0 +1,29 @@
+# --- Frontend & UI ---
+streamlit
+
+# --- Core RAG Framework ---
+langchain
+langchain-community
+langchain-ollama
+langchain-core
+langchain-chroma
+
+# --- PDF & Document Parsing ---
+pymupdf
+
+# --- Audio (Whisper & Emotion) ---
+faster-whisper
+transformers
+torch
+torchaudio
+soundfile
+librosa
+
+# --- Video & Image Processing ---
+moviepy
+Pillow
+ollama
+
+# --- System & Math ---
+numpy
+pathlib
